@@ -1,4 +1,4 @@
-# Simple Transparent, Animated GIF Generator Using Pillow
+# Simple, Transparent animated GIF generator for Python
 
 
 Reference: https://stackoverflow.com/questions/60948028/python-pillow-transparent-gif-isnt-working<br />
