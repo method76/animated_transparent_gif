@@ -6,3 +6,4 @@ Resources: https://0x72.itch.io/pixeldudesmaker<br />
 
 <img src="https://user-images.githubusercontent.com/13836042/231790960-5e3e4d82-d2be-4528-9c24-fe0242e317a1.gif" width="160" height="240">
 
+Put the transparent PNG resources at the 'input' folder, then run, the animated also transparent GIF will be out to the 'output' folder.
